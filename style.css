@@ -1,0 +1,39 @@
+
+
+
+body{
+    background-image: url(./assets/images/space.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;}
+
+h1{
+    text-align: center; color: #0046FF; background-color: #FF9013;
+    font-size: xxx-large;}
+
+h2{
+    text-align: center; color: #FF9013; background-color: #0046FF;
+    font-size: xxx-large;}
+
+h3{
+    text-align: center; background-color: lightgray; 
+    font-size: x-large;}
+
+ul{
+    font-weight: bold; font-size: x-large;}
+
+img{
+    display: block;
+    margin: auto;
+    width: 50%;}
+    
+.secondary{
+    font-size: medium;}
+
+.view{
+    font-weight: bold; font-size: large;
+    text-align: center;}
+
+.data{
+    font-weight: bold; font-size: large;}
