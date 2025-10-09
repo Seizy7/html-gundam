@@ -4,7 +4,7 @@
 body{
     background-image: url(./assets/images/space.jpg);
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;}
 
@@ -36,4 +36,5 @@ img{
     text-align: center;}
 
 .data{
+
     font-weight: bold; font-size: large;}
