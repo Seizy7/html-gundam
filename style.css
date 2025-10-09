@@ -1,6 +1,3 @@
-
-
-
 body{
     background-image: url(./assets/images/space.jpg);
     background-size: cover;
@@ -9,16 +6,20 @@ body{
     background-attachment: fixed;}
 
 h1{
-    text-align: center; color: #0046FF; background-color: #FF9013;
-    font-size: xxx-large;}
+    text-align: center; color: #01217a; background-color: #ffcb90;
+    font-size: xxx-large;
+    border: 40px solid black; border-bottom: 0px; margin: 0px;}
 
 h2{
-    text-align: center; color: #FF9013; background-color: #0046FF;
-    font-size: xxx-large;}
+    text-align: center; color: #ffcb90; background-color: #01217a;
+    font-size: xxx-large;
+    border: 40px solid black; border-top: 0px; 
+    margin-top: 0px; margin-bottom: 50px;}
 
 h3{
-    text-align: center; background-color: lightgray; 
-    font-size: x-large;}
+    text-align: center; background-color: black; color: white; 
+    font-size: x-large; font-weight: bold;
+    border: 2px solid black;}
 
 ul{
     font-weight: bold; font-size: x-large;}
@@ -26,7 +27,7 @@ ul{
 img{
     display: block;
     margin: auto;
-    width: 50%;}
+    width: 40%}
     
 .secondary{
     font-size: medium;}
@@ -36,5 +37,12 @@ img{
     text-align: center;}
 
 .data{
-
+    border: 2px solid black;
+    background-color: lightgray;
+    padding: 30px;
     font-weight: bold; font-size: large;}
+
+img{
+    border: 10px solid black;}
+
+
